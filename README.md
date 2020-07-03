@@ -12,7 +12,10 @@
 A new Flutter application.
 
 # App Demo:-
-![App Demo](assets/image/appdemo.png)
+<p>
+    <img src="assets/image/appdemo.jpeg" width="100%" height="100%" />
+
+</p>
 
 
 ## APK LINK:-
